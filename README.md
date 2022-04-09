@@ -27,5 +27,8 @@
 * yarn
 * yarn start
 
+## Screenshots
+![Manage Types] (https://github.com/panchal-krunal/inventory-management/blob/master/screenshots/Screenshot%202022-04-09%20at%2010.55.52%20PM.png)
+
 
 
